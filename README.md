@@ -1,0 +1,3 @@
+# Swift Function Argument Error
+
+This repository demonstrates a common error in Swift: forgetting to provide all required arguments when calling a function.  The example shows a simple area calculation function and highlights the error that occurs when one of the arguments is omitted. The solution shows how to correctly call the function to avoid this issue. This kind of bug is easily caught with comprehensive testing.
